@@ -41,7 +41,7 @@ With the data for US and World aid to countries, process the information to see 
 
 ## Dropbox download
 
-To run the jupyter notebook the csv files will have to be downloaded from [Dropbox](https://www.dropbox.com/home/US%20and%20World%20GDP%20on%20HDI)
+To run the jupyter notebook the csv files will have to be downloaded from [Dropbox](https://www.dropbox.com/home/US%20and%20World%20GDP%20on%20HDI) due to the large size of the csv files.
 
 
 
