@@ -6,7 +6,7 @@ To make a comparison of [Human Development Index](http://hdr.undp.org/en/content
 
 ## Purpose
 
-To gather the aid, hdi, and gdp data from 
+To gather the total financial aid, human development index, and gross domestic product data from 
 
 - [International Monetary Fund](https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/index.aspx)
 
