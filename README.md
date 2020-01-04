@@ -14,7 +14,7 @@ To gather the total financial aid, human development index, and gross domestic p
 
 - [USAID](https://explorer.usaid.gov/cd)
 
-With the data for US and World aid to countries, process the information to see the impact it has on GDP and HDI.
+With the data for US and World aid to countries, process the information to see the impact it has on GDP and HDI.  After manipulation graph and plot the relevant information.
 
 ## Technologies Used
 
@@ -38,6 +38,9 @@ With the data for US and World aid to countries, process the information to see 
 
 - Graph comparing Total Aid, GDP, and HDI
 <img src="https://github.com/ktung1189/Project-1/blob/master/Graph_HDI_GDP_Aid.png" alt='graph'>
+
+- Basemap of Total Aid by amount plotted on map
+<img src="https://github.com/ktung1189/Project-1/blob/master/Basemap.PNG" alt='map'>
 
 ## Dropbox download
 
